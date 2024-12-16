@@ -1,0 +1,68 @@
+{
+  "fruit": [
+    {
+      "typeId": 0,
+      "title": "Zombie Wasteland",
+      "img": "https://media.9game.cn/gamebase/ieu-eagle-docking-service/images/20230530/11/11/72a5dcaca3a001601537aaf2ee581d5d.jpeg",
+      "content": "In a wasteland overrun by zombies, search for hope of survival while avoiding mutant predators.",
+      "issuer": "119.99",
+      "date": "2023-10-27 18:00:00"
+    },
+    {
+      "typeId": 1,
+      "title": "Sea Cucumber Challenge",
+      "img": "https://imgo.liulanqi.net/img2022/9/6/12/2022090612594237000.jpg",
+      "content": "Help the sea cucumber complete a series of challenges, including jumping, dashing, and avoiding obstacles, to become the strongest sea cucumber!",
+      "issuer": "25.50",
+      "date": "2023-9-28 19:35:14"
+    },
+    {
+      "typeId": 2,
+      "title": "Forest Town",
+      "img": "https://img1.jiemian.com/101/original/20170628/149863827842133400.jpg",
+      "content": "Lead the villagers to build a prosperous forest town, explore natural resources, and handle various emergencies to become a legendary village chief.",
+      "issuer": "20.80",
+      "date": "2023-5-19 19:35:14"
+    },
+    {
+      "typeId": 3,
+      "title": "Adventure Journey",
+      "img": "https://image.9game.cn/2020/4/15/147481333.jpg",
+      "content": "At the close of a day, players embark on an exciting adventure journey, crossing multiple levels, solving hidden puzzles, and battling powerful enemies. Unlock secrets from the past and earn your own glorious honor.",
+      "issuer": "28.80",
+      "date": "2023-5-19 19:35:14"
+    },
+    {
+      "typeId": 4,
+      "title": "Legendary Demon King Castle",
+      "img": "https://pic.nximg.cn/20110812/4298526_154621592000_2.jpg",
+      "content": "In the ancient saltwater city, warriors will uncover a thousand-year-old secret, explore the ruins of Jinling, and search for the lost King’s Sword. Through various tasks and intense battles, you need to use strategy and wisdom to defeat strong enemies, gradually uncover hidden truths, and protect this cursed world.",
+      "issuer": "30.00",
+      "date": "2023-5-19 19:35:14"
+    },
+    {
+      "typeId": 5,
+      "title": "Dark Souls",
+      "img": "https://img.3dmgame.com/uploads/images/news/20181206/1544071696_766015.jpg",
+      "content": "When it comes to Souls-like games, what players enjoy most is the extreme difficulty in game design. Dark Souls is known for its difficulty. Every enemy, every battle, and every boss fight immerses players in deep gameplay design. The combat in Dark Souls is not just about strength but about patience, intelligence, and strategy. In this perilous world, heroes must face powerful enemies and troublesome traps. Just like the light and dark in the game, players continuously surpass themselves in the challenge, moving toward ultimate victory.",
+      "issuer": "59.99",
+      "date": "2021-5-19 19:35:14"
+    },
+    {
+      "typeId": 6,
+      "title": "PlayerUnknown’s Battlegrounds",
+      "img": "https://wallpaperm.cmcm.com/a1de70b59578e7e1b619990c4e497f41.jpg",
+      "content": "A classic in the shooting game genre, PUBG attracts countless players with its fast pace and tactical depth. Players are thrown into an extreme combat environment, where they must use their shooting skills and tactical mind to engage in life-or-death battles with enemies. In this challenging world, survival is the most important goal. Every shot is a decision of life and death, and every parachute jump could change the course of fate.",
+      "issuer": "49.99",
+      "date": "2021-5-19 19:35:14"
+    },
+    {
+      "typeId": 7,
+      "title": "Braised Ribbon Fish",
+      "img": "https://st-cn.meishij.net/r/219/162/6603219/s6603219_151290369598435.jpg",
+      "content": "A very simple home-cooked dish, with a salty and fresh flavor, making it a great dish to accompany wine or rice.",
+      "issuer": "28.80",
+      "date": "2021-5-19 19:35:14"
+    }
+  ]
+}

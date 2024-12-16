@@ -1,0 +1,4 @@
+#Mon Dec 16 02:50:46 MSK 2024
+base.0=C\:\\Users\\12040\\Desktop\\work\\lunwen\\Food\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
